@@ -1,9 +1,19 @@
-# Python Bootcamp For Beginners
-
-## Session 02 - Working with strings
+# Python Bootcamp - Session 02 
 
 
-### Try the following:
+## Windows PowerShell
+
+
+## Install VS Code
+
+
+## Built-in Functions
+- print()
+
+
+## Working with strings
+
+Try the following:
 ```python
 # concatenation
 print("hello" + "world")
