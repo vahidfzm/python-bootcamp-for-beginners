@@ -10,6 +10,18 @@
 ## Built-in Functions
 - print()
 
+## Comments
+```python
+# This is a single line comment
+```
+Python ignores string literals that are not assigned to a variable, therefore they can be used as multi-line comments.
+```python
+'''
+This is a multi-line comment
+This is a multi-line comment
+This is a multi-line comment
+'''
+```
 
 ## Working with strings
 
