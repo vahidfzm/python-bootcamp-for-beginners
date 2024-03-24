@@ -1,5 +1,4 @@
-# Python Bootcamp - Session 01
-
+# Python For Beginners - Chapter 1 - Getting Started
 
 
 ## What is Python?
@@ -29,6 +28,9 @@ CLI or Command Line Interface is a text-based interface that is used to operate 
 - mv: move file
 
 
+## Windows PowerShell
+
+
 ## Install Python
  https://www.python.org/downloads/
 
@@ -38,3 +40,4 @@ REPL stands for Read-Eval-Print-Loop. It is a simple, interactive computer progr
 
 
 
+## Install VS Code
