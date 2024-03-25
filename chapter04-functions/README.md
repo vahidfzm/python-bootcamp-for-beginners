@@ -1,4 +1,4 @@
-# Python For Beginners - Chapter 3 - Functions
+# Python For Beginners - Chapter 4 - Functions
 
 
 
@@ -38,6 +38,18 @@ result = add(5, 3)
 print(result)
 ```
 
+Write a function (named 'is_adult') that takes an integer (named 'age') as an argument and returns True if the number is greater than or equal to 18 and False otherwise
+```python
+def is_adult(age):
+    if age >= 18:
+        return True
+    else:
+        return False
+
+print is_adult(15)
+print is_adult(35)
+```
+
 ### Default arguments in functions
 ```python
 def greet(name, age=25):
@@ -58,6 +70,14 @@ def greet(name, age):
 greet(age=25, name='John')
 ```
 
+### Variable number of arguments
+```python
+def add(*args):
+    total = 0
+    for arg in args:
+        total += arg
+    return total
+```
 
 
 ## Built-in functions
