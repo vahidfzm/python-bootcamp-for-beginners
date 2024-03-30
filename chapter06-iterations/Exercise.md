@@ -14,7 +14,7 @@
 ```python
 # list_intersection([1, 2, 3, 4], [3, 4, 5, 6]) => [3, 4]
 ```
-4. Extend the function in the previous exercise as:
+4. Extend the function in the exercise no.1 as:
    - Return an empty list if the input is not a list.
    - Ignore non-integer elements in the input list.
 ```python
