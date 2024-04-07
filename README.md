@@ -17,4 +17,4 @@ Welcome to the Python Bootcamp for Beginners! This bootcamp is designed to intro
 
 - [Chapter 6 - Iterations](chapter06-iterations/README.md)
 
-- [Chapter 7 - Iterations](chapter07-dictionaries/README.md)
+- [Chapter 7 - Dictionaries](chapter07-dictionaries/README.md)
