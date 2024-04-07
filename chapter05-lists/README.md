@@ -198,3 +198,67 @@ fruits = ['apple', 'banana', 'cherry']
 print(len(fruits)) # Output: 3
 ```
 
+## Range Function
+```python
+range(start, stop, step)
+```
+The range() function generates a sequence of numbers from the start value to the stop value with the specified step value.
+```python
+print(list(numbers)) # Output: [0, 1, 2, 3, 4]
+numbers = range(1, 6)
+print(list(numbers)) # Output: [1, 2, 3, 4, 5]
+numbers = range(1, 6, 2)
+print(list(numbers)) # Output: [1, 3, 5]
+```
+
+The return value of the range() function is a range object, which is an iterable sequence of numbers and can be iterated using a for loop.
+```python
+numbers = range(5)
+for number in numbers:
+    print(number)
+# Output:
+# 0
+# 1
+# 2
+# 3
+# 4
+```
+If you want to convert the range object to a list, you can use the list() function.
+```python
+numbers = range(5)
+print(list(numbers)) # Output: [0, 1, 2, 3, 4]
+```
+
+
+
+## List Comprehension
+
+List comprehension is a concise way to create lists in Python. It allows you to create a new list by applying an expression to each element in an existing list.
+```python
+[expression for item in iterable]
+```
+Example:
+```python
+numbers = [1, 2, 3, 4, 5]
+squares = [x*x for x in numbers]
+print(squares) # Output: [1, 4, 9, 16, 25]
+```
+You can also use list comprehension to filter items in a list.
+```python
+numbers = [1, 2, 3, 4, 5]
+even_numbers = [x for x in numbers if x % 2 == 0]
+print(even_numbers) # Output: [2, 4]
+```
+You can use list comprehension to create lists from strings.
+
+```python
+sentence = 'Hello, World!'
+letters = [char for char in sentence if char.isalpha()]
+print(letters) # Output: ['H', 'e', 'l', 'l', 'o', 'W', 'o', 'r', 'l', 'd']
+```
+or:
+```python
+sentence = 'Hello, World'
+vowels = [char for char in sentence if char in 'aeiouAEIOU']
+print(vowels) # Output: ['e', 'o', 'o']
+```
