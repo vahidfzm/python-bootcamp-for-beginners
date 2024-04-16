@@ -20,5 +20,7 @@ Welcome to the Python Bootcamp for Beginners! This bootcamp is designed to intro
 - [Chapter 7 - Dictionaries](chapter07-dictionaries/README.md)
 
 - [Chapter 8 - Tuples](chapter08-tuples/README.md)
-- 
+
 - [Chapter 9 - Sets](chapter09-sets/README.md)
+
+- [Chapter 10 - Modules and Packages](chapter10-modules-and-packages/README.md)
