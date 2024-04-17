@@ -24,3 +24,5 @@ Welcome to the Python Bootcamp for Beginners! This bootcamp is designed to intro
 - [Chapter 9 - Sets](chapter09-sets/README.md)
 
 - [Chapter 10 - Modules and Packages](chapter10-modules-and-packages/README.md)
+
+- [Chapter 11 - Error Handling](chapter11-error-handling/README.md)
