@@ -1,0 +1,155 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Berlin", "London", "Madrid"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Leo Tolstoy"],
+        "answer": "William Shakespeare"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": ["O", "H2O", "CO2", "H2O2"],
+        "answer": "H2O"
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "answer": "Blue Whale"
+      },
+      {
+        "question": "Which country is home to the kangaroo?",
+        "options": ["New Zealand", "Australia", "South Africa", "Argentina"],
+        "answer": "Australia"
+      },
+      {
+        "question": "What is the primary ingredient in guacamole?",
+        "options": ["Tomato", "Onion", "Avocado", "Lime"],
+        "answer": "Avocado"
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+        "answer": "Mount Everest"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "Which planet is known as the 'Morning Star' or the 'Evening Star'?",
+        "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+        "answer": "Venus"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["G", "Au", "Go", "Ag"],
+        "answer": "Au"
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Indian Ocean", "Arctic Ocean", "Atlantic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "What is the largest organ of the human body?",
+        "options": ["Brain", "Liver", "Heart", "Skin"],
+        "answer": "Skin"
+      },
+      {
+        "question": "What is the chemical symbol for the element iron?",
+        "options": ["Ir", "Fe", "Io", "In"],
+        "answer": "Fe"
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Korea", "Vietnam"],
+        "answer": "Japan"
+      },
+      {
+        "question": "Which famous scientist developed the theory of relativity?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+        "answer": "Albert Einstein"
+      },
+      {
+        "question": "What is the chemical symbol for sodium?",
+        "options": ["So", "Sa", "Na", "No"],
+        "answer": "Na"
+      },
+      {
+        "question": "Who is credited with writing the US National Anthem?",
+        "options": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Francis Scott Key"],
+        "answer": "Francis Scott Key"
+      },
+      {
+        "question": "Which city is known as the City of Love?",
+        "options": ["Venice", "Paris", "Rome", "Florence"],
+        "answer": "Paris"
+      },
+      {
+        "question": "What is the chemical symbol for oxygen?",
+        "options": ["O2", "Om", "Ox", "Oz"],
+        "answer": "O2"
+      },
+      {
+        "question": "What is the largest type of big cat in the world?",
+        "options": ["Tiger", "Lion", "Jaguar", "Leopard"],
+        "answer": "Tiger"
+      },
+      {
+        "question": "Which country is the smallest in the world?",
+        "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+        "answer": "Vatican City"
+      },
+      {
+        "question": "What is the only mammal capable of flight?",
+        "options": ["Bat", "Bird", "Butterfly", "Bee"],
+        "answer": "Bat"
+      },
+      {
+        "question": "What is the chemical symbol for silver?",
+        "options": ["Ag", "Si", "S", "Ag2"],
+        "answer": "Ag"
+      },
+      {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctica"],
+        "answer": "Antarctica"
+      },
+      {
+        "question": "Which planet is known as the Blue Planet?",
+        "options": ["Mars", "Earth", "Uranus", "Neptune"],
+        "answer": "Earth"
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Florence Nightingale"],
+        "answer": "Alexander Fleming"
+      },
+      {
+        "question": "What is the chemical symbol for helium?",
+        "options": ["He", "H", "Hi", "Hel"],
+        "answer": "He"
+      },
+      {
+        "question": "Which country is known as the Land of the Midnight Sun?",
+        "options": ["Norway", "Sweden", "Finland", "Iceland"],
+        "answer": "Norway"
+      }
+    ]
+  }
+  
