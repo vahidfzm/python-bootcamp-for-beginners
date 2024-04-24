@@ -27,4 +27,6 @@ Welcome to the Python Bootcamp for Beginners! This bootcamp is designed to intro
 
 - [Chapter 11 - Error Handling](chapter11-error-handling/README.md)
 
-- [Chapter 12 - Project01](chapter12-project01/README.md)
+- [Chapter 12 - Files](chapter12-files/README.md)
+
+- [Chapter 13 - Project01](chapter13-project01/README.md)

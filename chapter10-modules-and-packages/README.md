@@ -14,6 +14,7 @@ Some of the most commonly used built-in modules are:
 3. `os`: Provides a way to interact with the operating system.
 4. `sys`: Provides access to some variables used or maintained by the interpreter and to functions that interact with the interpreter.
 5. `datetime`: Provides classes for manipulating dates and times.
+6. `json`: Provides functions for reading and writing JSON data
 
 
 ##  Importing Modules 
