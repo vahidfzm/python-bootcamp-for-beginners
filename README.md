@@ -7,3 +7,4 @@ Welcome to the Python Bootcamp for Beginners! This bootcamp is designed to intro
 ## Module1 - Fundamentals of Python
 
 * [Lesson 1.1 - Getting Started](module1/lesson1.1-getting-started/README.md)
+* [Lesson 1.2 - Data Types ,Operators, Variables](module1/lesson1.2-datatypes-operators-variables/README.md)
