@@ -133,6 +133,11 @@ This is a multi-line comment
 
 ## Casting
 
+- int() function
+- float() function
+- str() function
+- bool() function
+
 
 ## Working with strings
 - Single or Double Quote
